@@ -1,0 +1,22 @@
+a {
+    color: red;
+}
+a:active
+{
+    color: blue;
+}
+a:hover {
+    color: rgb(235, 118, 138)
+}
+a:visited {
+    color: green;
+}
+div p span {
+    background-color: yellow;
+}
+div>p {
+    background-color: red;
+}
+div ~ p {
+    border: double #32a1ce;
+}
